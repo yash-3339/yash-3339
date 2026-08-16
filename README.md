@@ -1,20 +1,20 @@
 <!-- ==================== HEADER ==================== -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=transparent&color=auto&fontColor=c9d1d9&text=Yashwanth%20Gangipamula&fontSize=42&fontAlignY=35&desc=AI%20%C2%B7%20Robotics%20Developer&descAlignY=58&descSize=18&height=180" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=transparent&color=auto&fontColor=24292e&text=Yashwanth%20Gangipamula&fontSize=42&fontAlignY=35&desc=AI%20%C2%B7%20Robotics%20Developer&descAlignY=58&descSize=18&height=180" />
-  <img align="center" alt="Yashwanth Gangipamula" src="https://capsule-render.vercel.app/api?type=transparent&color=auto&fontColor=24292e&text=Yashwanth%20Gangipamula&fontSize=42&fontAlignY=35&desc=AI%20%C2%B7%20Robotics%20Developer&descAlignY=58&descSize=18&height=180" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=transparent&color=auto&fontColor=c9d1d9&text=Yashwanth%20Gangipamula&fontSize=42&fontAlignY=35&desc=AI%20Engineer&descAlignY=58&descSize=18&height=180" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=transparent&color=auto&fontColor=24292e&text=Yashwanth%20Gangipamula&fontSize=42&fontAlignY=35&desc=AI%20Engineer&descAlignY=58&descSize=18&height=180" />
+  <img align="center" alt="Yashwanth Gangipamula" src="https://capsule-render.vercel.app/api?type=transparent&color=auto&fontColor=24292e&text=Yashwanth%20Gangipamula&fontSize=42&fontAlignY=35&desc=AI%20Engineer&descAlignY=58&descSize=18&height=180" />
 </picture>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=C9D1D9&background=00000000&center=true&vCenter=true&width=650&lines=AI+%C2%B7+Robotics+Developer;Building+GenAI+%40+Gen+AI+Academy+APAC;LLM+Data+%C2%B7+Eval+%40+Scale+AI;ROS+%C2%B7+Duckietown+%C2%B7+Autonomous+Robotics" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=24292E&background=00000000&center=true&vCenter=true&width=650&lines=AI+%C2%B7+Robotics+Developer;Building+GenAI+%40+Gen+AI+Academy+APAC;LLM+Data+%C2%B7+Eval+%40+Scale+AI;ROS+%C2%B7+Duckietown+%C2%B7+Autonomous+Robotics" />
-    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=24292E&background=00000000&center=true&vCenter=true&width=650&lines=AI+%C2%B7+Robotics+Developer;Building+GenAI+%40+Gen+AI+Academy+APAC;LLM+Data+%C2%B7+Eval+%40+Scale+AI;ROS+%C2%B7+Duckietown+%C2%B7+Autonomous+Robotics" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=C9D1D9&background=00000000&center=true&vCenter=true&width=650&lines=AI+Engineer;Agentic+AI+%C2%B7+RAG+%C2%B7+Multi-Agent+Systems;Enterprise+GenAI+%40+Schneider+Electric;Databricks+Certified+GenAI+Engineer" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=24292E&background=00000000&center=true&vCenter=true&width=650&lines=AI+Engineer;Agentic+AI+%C2%B7+RAG+%C2%B7+Multi-Agent+Systems;Enterprise+GenAI+%40+Schneider+Electric;Databricks+Certified+GenAI+Engineer" />
+    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=24292E&background=00000000&center=true&vCenter=true&width=650&lines=AI+Engineer;Agentic+AI+%C2%B7+RAG+%C2%B7+Multi-Agent+Systems;Enterprise+GenAI+%40+Schneider+Electric;Databricks+Certified+GenAI+Engineer" />
   </picture>
 </p>
 
 <p align="center">
-  AI &amp; Robotics Developer building Generative AI solutions and running large-scale LLM evaluation &amp; data annotation work, with a parallel track in open-source autonomous robotics and embedded hardware.
+  AI Engineer specializing in Agentic AI, Retrieval-Augmented Generation, and multi-agent systems for enterprise-scale Generative AI applications.
 </p>
 
 <p align="center">
@@ -31,9 +31,9 @@
 <!-- ==================== CURRENTLY BUILDING ==================== -->
 ### 🚀 Currently Building
 
-- 🤖 Generative AI solutions through **Gen AI Academy APAC**
-- 🧠 Complex LLM coding &amp; data annotation for **Scale AI** — *Project Aether, Andromeda UI*
-- 🦆 Open-source autonomous robotics with **Duckietown** &amp; **ROS** (ROSCon India attendee)
+- 🧠 Multi-agent AI systems (**LangGraph**, **RAG**, Agentic AI) for enterprise search &amp; workflow automation
+- ☁️ Distributed data &amp; retrieval pipelines (**AWS**, **Databricks**, **OpenSearch**) at production scale
+- 🎓 Databricks Certified Generative AI Engineer Associate &amp; AWS Certified Cloud Practitioner
 
 <br/>
 
@@ -41,22 +41,23 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
+  <img src="https://img.shields.io/badge/LangGraph-24292E?style=for-the-badge" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/RAG-24292E?style=for-the-badge" alt="RAG" />
+  <img src="https://img.shields.io/badge/Agentic_AI-24292E?style=for-the-badge" alt="Agentic AI" />
+  <img src="https://img.shields.io/badge/Azure_OpenAI-24292E?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure OpenAI" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-24292E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Databricks-24292E?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
+  <img src="https://img.shields.io/badge/Apache_Spark-24292E?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
+  <img src="https://img.shields.io/badge/OpenSearch-24292E?style=for-the-badge&logo=opensearch&logoColor=white" alt="OpenSearch" />
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-24292E?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PyTorch-24292E?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/LLMs-24292E?style=for-the-badge" alt="LLMs" />
-  <img src="https://img.shields.io/badge/Generative_AI-24292E?style=for-the-badge" alt="Generative AI" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/ROS-24292E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS" />
-  <img src="https://img.shields.io/badge/Duckietown-24292E?style=for-the-badge" alt="Duckietown" />
-  <img src="https://img.shields.io/badge/C%2B%2B-24292E?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Embedded_Systems-24292E?style=for-the-badge" alt="Embedded Systems" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-24292E?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/FastAPI-24292E?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Docker-24292E?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-24292E?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
-  <img src="https://img.shields.io/badge/Pandas-24292E?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Git-24292E?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-24292E?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
 
 <br/>
@@ -75,9 +76,9 @@
 </td>
 <td>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=yash-3339&hide_border=true&background=00000000&ring=C9D1D9&fire=C9D1D9&currStreakLabel=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=C9D1D9" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=yash-3339&hide_border=true&background=00000000&ring=24292E&fire=24292E&currStreakLabel=24292E&sideNums=24292E&sideLabels=24292E&dates=24292E&currStreakNum=24292E" />
-    <img alt="Yashwanth's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yash-3339&hide_border=true&background=00000000&ring=24292E&fire=24292E&currStreakLabel=24292E&sideNums=24292E&sideLabels=24292E&dates=24292E&currStreakNum=24292E" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=yash-3339&hide_border=true&background=00000000&ring=C9D1D9&fire=C9D1D9&currStreakLabel=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=C9D1D9" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=yash-3339&hide_border=true&background=00000000&ring=24292E&fire=24292E&currStreakLabel=24292E&sideNums=24292E&sideLabels=24292E&dates=24292E&currStreakNum=24292E" />
+    <img alt="Yashwanth's GitHub Streak" src="https://streak-stats.demolab.com/?user=yash-3339&hide_border=true&background=00000000&ring=24292E&fire=24292E&currStreakLabel=24292E&sideNums=24292E&sideLabels=24292E&dates=24292E&currStreakNum=24292E" />
   </picture>
 </td>
 </tr>
@@ -112,7 +113,7 @@
 </tr>
 <tr valign="top">
 <td align="center" width="33%">
-  LLM-powered tooling &amp; Generative AI workflows built through Gen AI Academy APAC.<br/><br/>
+  Agentic RAG &amp; multi-agent LLM workflows for enterprise search and automation.<br/><br/>
   <img src="https://img.shields.io/badge/LLMs-24292E?style=flat-square" alt="LLMs" />
   <img src="https://img.shields.io/badge/Python-24292E?style=flat-square&logo=python&logoColor=white" alt="Python" /><br/><br/>
   <!-- TODO: replace # with the real repository URL once published -->
@@ -126,7 +127,7 @@
   <a href="#">View Repository →</a>
 </td>
 <td align="center" width="33%">
-  Large-scale LLM data annotation &amp; cleaning pipelines inspired by Scale AI evaluation work.<br/><br/>
+  Distributed data ingestion &amp; annotation pipelines for large-scale AI systems.<br/><br/>
   <img src="https://img.shields.io/badge/Pandas-24292E?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/Data_Annotation-24292E?style=flat-square" alt="Data Annotation" /><br/><br/>
   <!-- TODO: replace # with the real repository URL once published -->
@@ -139,7 +140,7 @@
 
 <!-- ==================== PERSONAL ==================== -->
 <p align="center">
-  🏃 10K marathon runner &nbsp;·&nbsp; 🏔️ traveler (hill stations &amp; coastlines) &nbsp;·&nbsp; 🍜 dedicated foodie
+  🤖 Robotics enthusiast (ROS &amp; Duckietown) &nbsp;·&nbsp; 🏃 10K marathon runner &nbsp;·&nbsp; 🏔️ traveler (hill stations &amp; coastlines) &nbsp;·&nbsp; 🍜 dedicated foodie
 </p>
 
 <!-- ==================== FOOTER ==================== -->
