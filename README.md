@@ -1,15 +1,15 @@
 <!-- ==================== HEADER ==================== -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=transparent&color=auto&fontColor=c9d1d9&text=Yashwanth%20Gangipamula&fontSize=42&fontAlignY=35&desc=AI%20%26%20Robotics%20Developer&descAlignY=58&descSize=18&height=180" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=transparent&color=auto&fontColor=24292e&text=Yashwanth%20Gangipamula&fontSize=42&fontAlignY=35&desc=AI%20%26%20Robotics%20Developer&descAlignY=58&descSize=18&height=180" />
-  <img align="center" alt="Yashwanth Gangipamula" src="https://capsule-render.vercel.app/api?type=transparent&color=auto&fontColor=24292e&text=Yashwanth%20Gangipamula&fontSize=42&fontAlignY=35&desc=AI%20%26%20Robotics%20Developer&descAlignY=58&descSize=18&height=180" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=transparent&color=auto&fontColor=c9d1d9&text=Yashwanth%20Gangipamula&fontSize=42&fontAlignY=35&desc=AI%20%C2%B7%20Robotics%20Developer&descAlignY=58&descSize=18&height=180" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=transparent&color=auto&fontColor=24292e&text=Yashwanth%20Gangipamula&fontSize=42&fontAlignY=35&desc=AI%20%C2%B7%20Robotics%20Developer&descAlignY=58&descSize=18&height=180" />
+  <img align="center" alt="Yashwanth Gangipamula" src="https://capsule-render.vercel.app/api?type=transparent&color=auto&fontColor=24292e&text=Yashwanth%20Gangipamula&fontSize=42&fontAlignY=35&desc=AI%20%C2%B7%20Robotics%20Developer&descAlignY=58&descSize=18&height=180" />
 </picture>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=C9D1D9&background=00000000&center=true&vCenter=true&width=650&lines=AI+%26+Robotics+Developer;Building+GenAI+%40+Gen+AI+Academy+APAC;LLM+Data+%26+Eval+%40+Scale+AI;ROS+%C2%B7+Duckietown+%C2%B7+Autonomous+Robotics" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=24292E&background=00000000&center=true&vCenter=true&width=650&lines=AI+%26+Robotics+Developer;Building+GenAI+%40+Gen+AI+Academy+APAC;LLM+Data+%26+Eval+%40+Scale+AI;ROS+%C2%B7+Duckietown+%C2%B7+Autonomous+Robotics" />
-    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=24292E&background=00000000&center=true&vCenter=true&width=650&lines=AI+%26+Robotics+Developer;Building+GenAI+%40+Gen+AI+Academy+APAC;LLM+Data+%26+Eval+%40+Scale+AI;ROS+%C2%B7+Duckietown+%C2%B7+Autonomous+Robotics" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=C9D1D9&background=00000000&center=true&vCenter=true&width=650&lines=AI+%C2%B7+Robotics+Developer;Building+GenAI+%40+Gen+AI+Academy+APAC;LLM+Data+%C2%B7+Eval+%40+Scale+AI;ROS+%C2%B7+Duckietown+%C2%B7+Autonomous+Robotics" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=24292E&background=00000000&center=true&vCenter=true&width=650&lines=AI+%C2%B7+Robotics+Developer;Building+GenAI+%40+Gen+AI+Academy+APAC;LLM+Data+%C2%B7+Eval+%40+Scale+AI;ROS+%C2%B7+Duckietown+%C2%B7+Autonomous+Robotics" />
+    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=24292E&background=00000000&center=true&vCenter=true&width=650&lines=AI+%C2%B7+Robotics+Developer;Building+GenAI+%40+Gen+AI+Academy+APAC;LLM+Data+%C2%B7+Eval+%40+Scale+AI;ROS+%C2%B7+Duckietown+%C2%B7+Autonomous+Robotics" />
   </picture>
 </p>
 
@@ -68,9 +68,9 @@
 <tr>
 <td>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=yash-3339&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=C9D1D9&text_color=C9D1D9&icon_color=C9D1D9" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=yash-3339&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=24292E&text_color=24292E&icon_color=24292E" />
-    <img alt="Yashwanth's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yash-3339&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=24292E&text_color=24292E&icon_color=24292E" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=yash-3339&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=C9D1D9&text_color=C9D1D9&icon_color=C9D1D9" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=yash-3339&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=24292E&text_color=24292E&icon_color=24292E" />
+    <img alt="Yashwanth's GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=yash-3339&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=24292E&text_color=24292E&icon_color=24292E" />
   </picture>
 </td>
 <td>
@@ -85,9 +85,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-3339&layout=compact&hide_border=true&bg_color=00000000&title_color=C9D1D9&text_color=C9D1D9" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-3339&layout=compact&hide_border=true&bg_color=00000000&title_color=24292E&text_color=24292E" />
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-3339&layout=compact&hide_border=true&bg_color=00000000&title_color=24292E&text_color=24292E" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=yash-3339&layout=compact&hide_border=true&bg_color=00000000&title_color=C9D1D9&text_color=C9D1D9" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=yash-3339&layout=compact&hide_border=true&bg_color=00000000&title_color=24292E&text_color=24292E" />
+    <img alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=yash-3339&layout=compact&hide_border=true&bg_color=00000000&title_color=24292E&text_color=24292E" />
   </picture>
 </p>
 
